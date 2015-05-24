@@ -1,0 +1,71 @@
+The Output file contains the below variables 
+
+"activity_id"      - ID for activity like Walking, Sitting etc.            
+"subject_id"       - Identifier of the Sample chosen for the study with 19 to 48 years old        
+"activity_description" - Description of the activity like  Walking, Sitting etc.    
+"x_axis_tBodyAcc_mean"  - Mean of Mean Body Acceleration Signal by X Axis   
+"y_axis_tBodyAcc_mean"  - Mean of Mean Body Acceleration Signal by Y Axis     
+"z_axis_tBodyAcc_mean"  - Mean of Mean Body Acceleration Signal by Z Axis      
+"x_axis_tBodyAcc_std"       - Mean of Standard Deviation Body Acceleration Signal by X Axis   
+"y_axis_tBodyAcc_std"      - Mean of Standard Deviation Body Acceleration Signal by Y Axis     
+"z_axis_tBodyAcc_std"       - Mean of Standard Deviation Body Acceleration Signal by Z Axis      
+"x_axis_tGravityAcc_mean"   - Mean of Mean Body Gravitation Signal by X Axis   
+"y_axis_tGravityAcc_mean"   - Mean of Mean Body Gravitation Signal by Y Axis  
+"z_axis_tGravityAcc_mean"   - Mean of Mean Body Gravitation Signal by Z Axis  
+"x_axis_tGravityAcc_std"    - Mean of Standard Deviation Body Gravitation Signal by X Axis 
+"y_axis_tGravityAcc_std"    - Mean of Standard Deviation Body Gravitation Signal by Y Axis
+"z_axis_tGravityAcc_std"    - Mean of Standard Deviation Body Gravitation Signal by Z Axis
+"x_axis_tBodyAccJerk_mean"  - Mean of Mean Body Acceleration Jerk Signal by X Axis
+"y_axis_tBodyAccJerk_mean"  - Mean of Mean Body Acceleration Jerk Signal by Y Axis
+"z_axis_tBodyAccJerk_mean"  - Mean of Mean Body Acceleration Jerk Signal by Z Axis
+"x_axis_tBodyAccJerk_std"   - Mean of Standard Deviation Body Acceleration Jerk Signal by X Axis
+"y_axis_tBodyAccJerk_std"   - Mean of Standard Deviation Body Acceleration Jerk Signal by Y Axis
+"z_axis_tBodyAccJerk_std"   - Mean of Standard Deviation Body Acceleration Jerk Signal by Z Axis
+"x_axis_tBodyGyro_mean"     - Mean of Mean Body Gyro  Signal by X Axis
+"y_axis_tBodyGyro_mean"     - Mean of Mean Body Gyro  Signal by Y Axis
+"z_axis_tBodyGyro_mean"     - Mean of Mean Body Gyro  Signal by Z Axis
+"x_axis_tBodyGyro_std"      - Mean of Standard Deviation Body Gyro  Signal by X Axis
+"y_axis_tBodyGyro_std"      - Mean of Standard Deviation Body Gyro  Signal by Y Axis
+"z_axis_tBodyGyro_std"      - Mean of Standard Deviation Body Gyro  Signal by Z Axis
+"x_axis_tBodyGyroJerk_mean"  - Mean of Mean Body Gyro Jerk Signal by X Axis
+"y_axis_tBodyGyroJerk_mean"  - Mean of Mean Body Gyro Jerk Signal by Y Axis
+"z_axis_tBodyGyroJerk_mean"  - Mean of Mean Body Gyro Jerk Signal by Z Axis
+"x_axis_tBodyGyroJerk_std"   - Mean of Standard Deviation Body Gyro Jerk Signal by X Axis
+"y_axis_tBodyGyroJerk_std"   - Mean of Standard Deviation Body Gyro Jerk Signal by Y Axis
+"z_axis_tBodyGyroJerk_std"   - Mean of Standard Deviation Body Gyro Jerk Signal by Z Axis
+"tBodyAccMag_mean"           - Mean of Mean Body Acc Mag 
+"tBodyAccMag_std"            - Mean of Standard Deviation Body Acc Mag 
+"tGravityAccMag_mean"         - Mean of Mean Gravity Acc Mag
+"tGravityAccMag_std"          - Mean of Standard Deviation Gravity Acc Mag
+"tBodyAccJerkMag_mean"        - Mean of Mean Body Acc Jerk Mag
+"tBodyAccJerkMag_std"        - Mean of Standard Deviation Body Acc Jerk Mag
+"tBodyGyroMag_mean"          - Mean of Mean Body Gyro  Mag
+"tBodyGyroMag_std"           - Mean of Standard Deviation Body Gyro  Mag
+"tBodyGyroJerkMag_mean"       - Mean of Mean Body Gyro  Jerk Mag
+"tBodyGyroJerkMag_std"       - Mean of Standard Deviation Body Gyro  Jerk Mag
+"x_axis_fBodyAcc_mean"        - Mean of Mean fBody Acc X Axis
+"y_axis_fBodyAcc_mean"      - Mean of Mean fBody Acc Y Axis
+"z_axis_fBodyAcc_mean"      - Mean of Mean fBody Acc Z Axis
+"x_axis_fBodyAcc_std"       - Mean of Standard Deviation fBody Acc X Axis
+"y_axis_fBodyAcc_std"      - Mean of Standard Deviation fBody Acc Y Axis
+"z_axis_fBodyAcc_std"       - Mean of Standard Deviation fBody Acc Z Axis
+"x_axis_fBodyAccJerk_mean"   - Mean of Mean fBody Acc Jerk X Axis
+"y_axis_fBodyAccJerk_mean"  - Mean of Mean fBody Acc Jerk Y Axis
+"z_axis_fBodyAccJerk_mean" - Mean of Mean fBody Acc Jerk Z Axis
+"x_axis_fBodyAccJerk_std"   - Mean of Standard Deviation fBody Acc Jerk X Axis
+"y_axis_fBodyAccJerk_std"   - Mean of Standard Deviation fBody Acc Jerk Y Axis
+"z_axis_fBodyAccJerk_std"  - Mean of Standard Deviation fBody Acc Jerk Z Axis
+"x_axis_fBodyGyro_mean"    - Mean of Mean fBody Gyro X Axis
+"y_axis_fBodyGyro_mean"    - Mean of Mean fBody Gyro Y Axis
+"z_axis_fBodyGyro_mean"     - Mean of Mean fBody Gyro Z Axis
+"x_axis_fBodyGyro_std"      - Mean of Standard Deviation fBody Gyro X Axis
+"y_axis_fBodyGyro_std"     - Mean of Standard Deviation fBody Gyro Y Axis
+"z_axis_fBodyGyro_std"      - Mean of Standard Deviation fBody Gyro Z Axis
+"fBodyAccMag_mean"          - Mean of Mean fBody Acc Mag 
+"fBodyAccMag_std"           - Mean of Standard Deviation fBody Acc Mag 
+"fBodyBodyAccJerkMag_mean"  - Mean of Mean fBody Acc Jerk Mag 
+"fBodyBodyAccJerkMag_std"   - Mean of Standard Deviation fBody Acc Jerk Mag 
+"fBodyBodyGyroMag_mean"     - Mean of Mean fBody Acc Gyro Mag 
+"fBodyBodyGyroMag_std"      - Mean of Standard Deviation fBody Acc Gyro Mag 
+"fBodyBodyGyroJerkMag_mean" - Mean of Mean fBody  Gyro Jerk Mag 
+"fBodyBodyGyroJerkMag_std" - Mean of Standard Deviation fBody  Gyro Jerk Mag 
